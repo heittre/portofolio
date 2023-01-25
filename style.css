@@ -1,0 +1,35 @@
+a{
+    text-decoration: none;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+nav{
+    padding-top: 20px;
+    padding-right: 30px;
+}
+h1{
+    font-size: 72px;
+}
+button{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border:none;
+    text-decoration: none;
+}
+
+
+.centerr{
+    text-align:center;
+}
+
+.propic{
+   
+    position:center
+    ;
+}
+img{
+    mix-blend-mode: multiply;
+}
+#swengineer{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
